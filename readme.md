@@ -1,4 +1,4 @@
-![Plotly](https://en.wikipedia.org/wiki/Plotly)
+<img src="https://en.wikipedia.org/wiki/Plotly" alt="plotly" />
 
 ## Blogs
 |Topic                |Link                       
